@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+gtts
+openai
+python-dotenv
